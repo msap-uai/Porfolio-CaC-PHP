@@ -11,7 +11,7 @@ echo "<p>Variable x outside function is: $x</p>";
 
 
 function myTest2() {
-  global $x += 2; // permite acceder a variables globales
+  //global $x = 2; // permite acceder a variables globales
 }
 myTest2();
 

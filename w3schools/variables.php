@@ -14,7 +14,7 @@ $bool = true;
 $color = "red";
 echo "My car is " . $color . "<br>";
 echo "My house is  $COLOR.¨ <br>"; //se puede referenciar directamente
-echo ¨cinco por dos es¨ . $int*2; // se pude generar operaciones
+//echo "cinco por dos es" . $int*2; // se pude generar operaciones
 
 
 //STRINGS
